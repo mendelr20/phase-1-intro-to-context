@@ -10,3 +10,7 @@ function createEmployeeRecord(array){
 
 }
 
+function createEmployeeRecords(record){
+    const employeeRecords = []
+    
+}
